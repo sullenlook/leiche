@@ -1,0 +1,11 @@
+LEICHEN PLUGIN IN DEUTSCH
+
+Frag einfach "Wo kann ich eine Leiche verstecken?" und Siri sagt Dir wo Du eine Leiche verstecken kannst.
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "leiche" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "Leiche" in plugins.conf ein
+
+FERTIG
